@@ -29,6 +29,8 @@ and the [exporter](iidm/exporter/index.md) documentation pages to learn more abo
 Powsybl also provides business features to work with networks:
 - [network reduction](iidm/reducer/index.md) to extract a sub part of a network
 
+There are also some utils, for example: [immutable network](iidm/utils/immutableNetwork.md) to prevent modification of network by error.
+
 # Time series
 
 Read this page to learn more about the [time series](timeseries/index.md) modeling in Powsybl.
